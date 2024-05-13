@@ -1,0 +1,9 @@
+Package: co.1txc.instatxc
+Name: InstaTxC
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Add more features to social media apps.
+Maintainer: Azozz ALFiras
+Author: Azozz ALFiras
+Section: Tweaks
